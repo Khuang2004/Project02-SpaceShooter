@@ -21,7 +21,7 @@ The game includes a start menu, gameplay scene, and an end-game screen when the 
 
 ## References
 - Class exercises and demo code  
-- Kenney.nl (free 2D game assets)  
+- Kenney.nl
 - OpenGameArt.org  
 
 ## Future Development
